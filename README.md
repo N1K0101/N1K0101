@@ -1,14 +1,13 @@
-### Wellcome 👋
 
 
-##### About Me
-*Biochemist turned genomic analyst with a passion for programming. As a skilled **Genomic Analyst** 🧬 , I have experience in curating variants and prioritizing them for exome and genome sequencing. I am currently expanding my skillset by learning Python and JavaScript, and enjoy working on programming projects in my free time. With my unique background in biology🧫 and programming👾, I am excited to contribute to the intersection of technology and science. When I'm not analyzing genomic data or coding, you can find me playing golf* ⛳
+# Wellcome 🙋🏻‍♂️ 
 
+<img src="/home/nicolas/Documentos/Proyectos/perfil/N1K0101/assets/ALdI.gif" alt="image for molecules of dna" style="width:30%; float:right;">
 
-<!--
-**N1K0101/N1K0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
-<img src="" alt="">
+Biochemist turned genomic analyst with a passion for programming💻.
+Skilled in curating and prioritizing genetic variants for exome and genome sequencing🧬 . Currently learning Python <img src="/home/nicolas/Documentos/Proyectos/perfil/N1K0101/assets/python.png" width="15" height="15"> and JavaScript <img src="/home/nicolas/Documentos/Proyectos/perfil/N1K0101/assets/javascript.png" width="15" height="15">. Excited to contribute to the intersection of technology and science. 
 
--->
+<img src="/home/nicolas/Documentos/Proyectos/perfil/N1K0101/assets/sincos.gif" alt="image for molecules of dna" width="700" height="150">
+
