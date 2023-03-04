@@ -2,7 +2,7 @@
 
 # Wellcome 🙋🏻‍♂️ 
 
-<img src="https://github.com/N1K0101/N1K0101/blob/main/assets/QofD.gif" alt="image for molecules of dna" width="100" height="500">
+<img src="https://github.com/N1K0101/N1K0101/blob/main/assets/QofD.gif" alt="image for molecules of dna" style="transform: rotate(90deg);" width="100" height="500">
 
 <!-- <img src="/home/nicolas/Documentos/Proyectos/perfil/N1K0101/assets/QofD.gif" alt="image for molecules of dna" style="transform: rotate(90deg);" > -->
 
